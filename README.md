@@ -1,9 +1,7 @@
-# BME4503C Homework 1
+# MATLAB Modeling and Data Visualization
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Language](https://img.shields.io/badge/language-MATLAB-orange)
-![Repo Size](https://img.shields.io/github/repo-size/emilydel22/BME4503C_HW1)
-![Last Commit](https://img.shields.io/github/last-commit/emilydel22/BME4503C_HW1)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 This repository contains MATLAB code and outputs for Homework 1 in BME4503C.
 
